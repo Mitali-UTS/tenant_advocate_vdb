@@ -1,0 +1,10 @@
+sentence-transformers >=5.4.1,<6.0.0
+chromadb >=1.5.8,<2.0.0
+fastapi >=0.136.1,<0.137.0
+pydantic >=2.13.3,<3.0.0
+huggingface-hub >=1.12.0,<2.0.0
+hf-xet >=1.4.3,<2.0.0
+fastapi-cli >=0.0.24,<0.0.25
+pandas >=3.0.2,<4.0.0
+openpyxl >=3.1.5,<4.0.0
+uvicorn >=0.46.0,<0.47.0
